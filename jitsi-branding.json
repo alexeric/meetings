@@ -1,7 +1,18 @@
 {
   "inviteDomain":"meet.enits.de",
   "backgroundColor":"#3450a3",
-  "backgroundImageUrl":"",
+  "backgroundImageUrl":"https://eric-naud.de/wp-content/uploads/2017/12/development.jpeg",
   "logoClickUrl":"https://eric-naud.de",
-  "logoImageUrl":"https://raw.githubusercontent.com/alexeric/meetings/main/watermark.png"
+  "logoImageUrl":"https://raw.githubusercontent.com/alexeric/meetings/main/watermark.png",
+  "appName": "enITS Jitsi Meet",
+  "defaultBackground": "images/custom-background.jpg",
+  "defaultLocalDisplayName": "Me",
+  "defaultRemoteDisplayName": "Fellow Jitster",
+  "inviteAppName": "Eric Naud IT Services Jitsi",
+  "inviteServiceUrl": "",
+  "supportUrl": "https://support.enits.de",
+  "transcribingEnabled": false,
+  "recordingEnabled": true,
+  "liveStreamingEnabled": false,
+  "disableThirdPartyRequests": true
 }
