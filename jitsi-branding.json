@@ -1,11 +1,11 @@
 {
   "inviteDomain":"meet.enits.de",
   "backgroundColor":"#3450a3",
-  "backgroundImageUrl":"https://eric-naud.de/wp-content/uploads/2017/12/development.jpeg",
+  "",
   "logoClickUrl":"https://eric-naud.de",
   "logoImageUrl":"https://raw.githubusercontent.com/alexeric/meetings/main/watermark.png",
   "appName": "enITS Jitsi Meet",
-  "defaultBackground": "images/custom-background.jpg",
+  "defaultBackground": "https://eric-naud.de/wp-content/uploads/2017/12/development.jpeg",
   "defaultLocalDisplayName": "Me",
   "defaultRemoteDisplayName": "Fellow Jitster",
   "inviteAppName": "Eric Naud IT Services Jitsi",
